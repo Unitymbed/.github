@@ -1,6 +1,6 @@
 # .github
 Unitymbed Organization 
-# unitymbed.com — Official Website Documentation (Single File)
+# unitymbed.com — Official Website Documentation KhaoYai-Edition.
 Version 1.0  
 Maintainer: Jesada Pholcharoen (UnityMbed / Teva)  
 Last updated: 2026-01-03
